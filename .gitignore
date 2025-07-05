@@ -1,0 +1,31 @@
+# Environment variables
+.env
+
+# Python virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# IDE specific files
+.vscode/ # If you use VS Code
+.idea/   # If you use PyCharm/IntelliJ
+
+# Operating System specific files
+
+Thumbs.db # Windows
+
+# Testing artifacts
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Distribution / packaging
+dist/
+*.egg-info/
+.tox/
+
